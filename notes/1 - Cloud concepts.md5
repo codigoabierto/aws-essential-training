@@ -1,0 +1,25 @@
+# 1. Cloud concepts
+
+### Cloud Services
+
+* Infrastructure as a Service (IaaS): Windows Azure, Rackspace Cloud
+* Platform as a Service (PaaS): Google App Engine, PHP Fog, Heroku
+* Software as a Service (SaaS): Google Apps, Basecamp, Mint
+
+### Business Benefits
+
+* Minimal upfront infrastructure investment
+* Just-in-time infrastructure
+* Maximize efficiency of resources
+* Only pay for what you use
+* No long term commitments
+
+### Technical Benefits
+
+* Automation (scriptable API's)
+* Auto-scaling
+* Proactive scaling
+* Efficient development and improved testability
+* Disaster recovery
+
+### Scalable Architectures
